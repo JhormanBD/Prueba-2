@@ -5,7 +5,7 @@
     <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width,initial-scale=1">
-          <title>AngularJS Authentication App</title>
+          <title>Aplicación de autenticación con Angular JS</title>
           <!-- Bootstrap -->
           <link href="css/bootstrap.min.css" rel="stylesheet">
             <link href="css/custom.css" rel="stylesheet">
@@ -30,7 +30,7 @@
         <div class="row">
           <div class="navbar-header col-md-8">
             <button type="button" class="navbar-toggle" toggle="collapse" target=".navbar-ex1-collapse">
-              <span class="sr-only">Toggle navigation</span>
+              <span class="sr-only">Seleccione navegación</span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
@@ -64,4 +64,3 @@
   <script src="app/directives.js"></script>
   <script src="app/authCtrl.js"></script>
 </html>
-
